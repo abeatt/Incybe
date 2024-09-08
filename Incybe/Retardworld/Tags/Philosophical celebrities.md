@@ -1,0 +1,1 @@
+a "series" on all the philosophical celebrities that 
