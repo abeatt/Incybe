@@ -1,3 +1,0 @@
-Recognising a higher power of God whilst not fleshing this out. Is god located in the place setting of the VOID, and hence creation is deemed exnihilo, which informs logical fallacies, or is there a plenum of potential which infers Panentheism, or indeed, as with the WAGNER group and many others, is the concept of mind, or soul, as inherent in all matter, inferring a resort to neopansychism which informed the nazi agenda.
-
-[[Ancient religious science]]

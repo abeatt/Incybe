@@ -1,2 +1,0 @@
-[[Incybe/Retardworld/Tags/Controlled opposition|Controlled opposition]]
-Blatantly genuinely does not believe in doing the right thing, like actively is ok with death for thousands, just watch his dan bilzarian interview 
