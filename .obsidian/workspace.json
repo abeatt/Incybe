@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "b2aecfd0e60436ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f0522482dd7ef90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b19b6bb655e4d6a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b50e8703fb9c1233",
+    "type": "split",
+    "children": [
+      {
+        "id": "3afdc17e5435d6ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6502cecd84d7e6ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "825e91c2ca04d6d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f8edfa27ff7cc93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0980ab6a2f176d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "607b377ce2626090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e48ced4b702eb07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e30ede42646e4be5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "826457157cebed18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f00cae08afdaa99a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "b19b6bb655e4d6a4",
+  "lastOpenFiles": [
+    "content/Test today.md",
+    "Test today.md",
+    "Untitled.md",
+    "Untitled",
+    "content/index.md",
+    "README.md",
+    "public/_flowershow/theme-button.svg",
+    "public/_flowershow/avatarplaceholder.png",
+    "Incybe/Retardworld/Sources/Tags/fascism.md",
+    "content/Incybe/Retardworld/Sources/attachments/Pasted image 20240324173244.png",
+    "content/Incybe/Retardworld/Sources/attachments/Capture.jpg",
+    "content/Incybe/Retardworld/Sources/attachments/Capture 1.jpg",
+    "content/Incybe/Retardworld/Sources/attachments/1.jpg",
+    "content/Incybe/Retardworld/Sources/attachments/Chris Evans Bomb signing 2.jpg",
+    "content/Incybe/Retardworld/Sources/attachments/Capture 2.jpg",
+    "content/Incybe/Retardworld/Sources/attachments/BlkRok(Bdrk).jpg",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-03-08/StateSt(BDRK).jpg",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-05-14/Geoengineering.md",
+    "content/Incybe/Retardworld/Henry A. Kissinger.md",
+    "content/Incybe/Retardworld/Sources/Mercurius post 23.03.24.md",
+    "content/Incybe/Retardworld/John K. Galbraith.md",
+    "content/Incybe/Retardworld/Caution Fallible Humans Ahead.md",
+    "content/Incybe/Retardworld/Schwabs Three Mentors.md",
+    "content/Incybe/Retardworld/Herman Kahn.md",
+    "content/Incybe/Retardworld/Sources/bedrock.md",
+    "content/Incybe/Retardworld/Abe opinion pieces.md",
+    "content/Incybe/Development/Abe’s W&W.md",
+    "content/Incybe/Retardworld/Sources/Johnny Vedmore.md",
+    "content/Incybe/Retardworld/Dr. Klaus Schwab or How the CFR Taught Me to Stop Worrying and Love the Bomb.md",
+    "content/Incybe/Retardworld/Nations.md",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-03-08/Obama-Biden administration legalized .neurological surveillance. after Trumps election - LifeSite 1.md",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-03-10/mercurious on X- -.md",
+    "content/Incybe/Retardworld/CO-opted US Presidents.md",
+    "CHANGELOG.md",
+    "content/Incybe/Retardworld/Intercontinental fraud.md",
+    "content/Incybe/Retardworld/Sources/Lectures.md",
+    "content/Incybe/Retardworld/Sources/X spaces.md",
+    "content/Incybe/Retardworld/Sources/attachments/excel_saves",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-05-30",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-05-14",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-03-25",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-03-24",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-03-15",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-03-14",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-03-13",
+    "content/Incybe/Retardworld/Sources/Omnivore/2024-03-12",
+    "Untitled.canvas"
+  ]
+}
