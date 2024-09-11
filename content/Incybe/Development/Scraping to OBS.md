@@ -1,0 +1,3 @@
+[[Development]]
+Idea:
+A tool that runs each individual article from a site, i.e. to obsidian through a program that isolates all nouns, giving the importer the option to then select which nouns want links created between and adds "[[]]" to what is left once the unwanted have been deselected meaning articles that mention the same name have a new note created with links to each of the reference instances.
