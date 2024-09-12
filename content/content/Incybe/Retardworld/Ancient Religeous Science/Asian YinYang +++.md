@@ -6,6 +6,6 @@ the 64 hexegrams in 1143BC, by King Wan, and the reasonings deduced by Confuciou
 
 ![[Pasted image 20240324173309.png]]
 
-comment from [[mercurious on X- -]]or that the divination system of ICHING and the taoist diagram, were not combined or applied to physics and logic, until on suggestions by Dr Herbert Chatley, they appeared in the text of Z.D.Sung, first published in 1932, and later in 1969, under the title "The Symbols of Yi King", published by Paragon Press.
+comment from [[mercurious on X]]or that the divination system of ICHING and the taoist diagram, were not combined or applied to physics and logic, until on suggestions by Dr Herbert Chatley, they appeared in the text of Z.D.Sung, first published in 1932, and later in 1969, under the title "The Symbols of Yi King", published by Paragon Press.
 
 #AncientReligeon
