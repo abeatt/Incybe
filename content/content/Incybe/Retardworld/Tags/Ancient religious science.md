@@ -1,6 +1,0 @@
-[[Asian YinYang +++]]
-[[Euclid]]
-[[Flower of Life]]
-[[Judaism]]
-[[Pantheism]]
-[[Silence for lies]]
