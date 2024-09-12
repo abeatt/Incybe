@@ -8,3 +8,6 @@ out/
 tsconfig.tsbuildinfo
 .vscode/
 .idea/
+yarn.lock
+Dockerfile
+docker-compose.yml
